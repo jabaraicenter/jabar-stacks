@@ -53,6 +53,13 @@ List teknologi yang digunakan untuk pengembangan berbagai aplikasai di provinsi 
 
 ## Data Analysis
 
+### Machine Learning
+- fastText
 
 ## Systems Modeling
 - OpenModelica
+
+## Security Testing
+- Metasploit
+- OWASP ZAP
+
