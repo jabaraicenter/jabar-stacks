@@ -14,15 +14,24 @@ List teknologi yang digunakan untuk pengembangan berbagai aplikasai di provinsi 
 - Apache
 - Nginx
 
-### Backend
+### Backend Languages
 - Python
 - Go
 - Php
 - Javascript
 
+### Backend Frameworks
+- Django
+- Codeigniter
+- Phalcon
+
 ### Frontend
 - ReactJS
 - VueJS
+
+## Mobile Development
+- Java
+- Android SDK
 
 ## Geographical Information System
 
