@@ -51,7 +51,12 @@ List teknologi yang digunakan untuk pengembangan berbagai aplikasai di provinsi 
 ### Geospatial Database
 - PostgreSQL
 
-## Data Analysis
+## Data Processing
+
+### Big Data
+- Apache Hive
+- Apache Hbase
+- Apache Spark
 
 ### Machine Learning
 - fastText
