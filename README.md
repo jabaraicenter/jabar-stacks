@@ -18,6 +18,7 @@ List teknologi yang digunakan untuk pengembangan berbagai aplikasai di provinsi 
 - Python
 - Go
 - Php
+- Java
 - Javascript
 
 ### Backend Frameworks
@@ -45,20 +46,22 @@ List teknologi yang digunakan untuk pengembangan berbagai aplikasai di provinsi 
 - Geoserver
 
 ### WebGIS
-- Kepler.gl
+- Deck.gl
 - OpenLayers
+- Cesium
+- ArcGIS js
 
 ### Geospatial Database
 - PostgreSQL
 
-## Data Processing
-
-### Big Data
+## Big Data Data Processing
 - Apache Hive
 - Apache Hbase
 - Apache Spark
+- Presto
+- GeoSpark
 
-### Machine Learning
+## Machine Learning
 - fastText
 
 ## Systems Modeling
@@ -67,4 +70,7 @@ List teknologi yang digunakan untuk pengembangan berbagai aplikasai di provinsi 
 ## Security Testing
 - Metasploit
 - OWASP ZAP
+
+## Cloud Development
+- OpenStack
 
