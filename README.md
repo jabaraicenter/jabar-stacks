@@ -40,6 +40,7 @@ List teknologi yang digunakan untuk pengembangan berbagai aplikasai di provinsi 
 - ArcGIS
 - QGIS
 - PostGIS
+- GeoSpark [BIG DATA]
 
 ### Geospatial Service
 - ArcGIS server
